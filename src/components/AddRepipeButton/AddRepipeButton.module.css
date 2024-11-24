@@ -1,0 +1,14 @@
+.addButton {
+    display: block;
+    background-color: var(--subtle-brown);
+    color: var(--soft-white);
+    border: none;
+    /* padding: 1em 1em; */
+    font-size: 2em;
+    cursor: pointer;
+    border-radius: 50%;
+  }
+  
+  .header button.addButton:hover {
+    background-color: var(--hover-color);
+  }
